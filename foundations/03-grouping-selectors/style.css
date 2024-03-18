@@ -1,0 +1,15 @@
+/* -- styles -- */
+
+#me{ 
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#not-me{ 
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    background-color: yellow;
+}

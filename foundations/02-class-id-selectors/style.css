@@ -1,0 +1,20 @@
+/* -- styles -- */
+
+p {
+    background-color: rgb(239, 132, 164);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number-two {
+    color: hsl(238, 65%, 47%);
+    font-size: 36px;
+}
+
+.text-style {
+    font-size: 24px;
+}
+
+#bold {
+    font-weight: bold;
+    background-color: #85d366;
+}
